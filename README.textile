@@ -1,2 +1,2 @@
-# Hanoi-Towers-Unity
+h1. Hanoi-Towers-Unity
 The classic Hanoi Towers problem in a unity interactive app!
